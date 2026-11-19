@@ -1,0 +1,5 @@
+Cosas necesarias para un chatbot:
+- Alguna forma de colocar codigo (Visual studio code es ideal)
+- Una IA ( O simplemente colocar una respuesta predefinida para cada pregunta)
+- Una base de datos (Como PDFs)
+- Pasar la base de datos a la IA
